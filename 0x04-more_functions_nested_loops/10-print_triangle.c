@@ -22,9 +22,12 @@ void print_triangle(int size)
 				_putchar('#');
 			}
 			if (hash == size)
+			{
 				continue;
+			}
 			_putchar('\n');
 		}
 	}
+	_putchar('\n');
 }
 
