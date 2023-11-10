@@ -1,9 +1,7 @@
 #include "variadic_functions.h"
-#include <stdio.h>
-#include <stdarg.h>
 
 /**
- * print_stings -print strings
+ * print_stings - print strings
  * @separator: character to separate the strings
  * @n: the strings
  * Return: void
