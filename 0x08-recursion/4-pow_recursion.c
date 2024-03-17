@@ -2,8 +2,8 @@
 
 /**
  * _pow_recursion - Returns the answers
- * @a: the number to multiply
- * @b: the  number of times to multiply it
+ * @x: the number to multiply
+ * @y: the  number of times to multiply it
  * Return: te final answer
  */
 
